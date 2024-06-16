@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marziel2001&label=Profile%20views&color=0e75b6&style=flat" alt="marziel2001" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python and React**
 
 - 👯 I’m looking to collaborate on **fullstack project**
 
