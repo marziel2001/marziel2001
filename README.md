@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marziel2001&label=Profile%20views&color=0e75b6&style=flat" alt="marziel2001" /> </p>
 
-- 🌱 I’m currently doing engieener degree
+- 🌱 I’m currently doing engieneer degree
 
 - 👯 I’m looking to collaborate on **fullstack** or **C/C++** projects
 
