@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marziel2001&label=Profile%20views&color=0e75b6&style=flat" alt="marziel2001" /> </p>
 
-- 🌱 I’m currently doing engieneer degree
+- 🌱 I’m currently doing master studies and working at Intel Corporation
 
-- 👯 I’m looking to collaborate on **fullstack** or **C/C++** projects
+- 👯 I’m looking to collaborate on **fullstack** or **C/C++/Java** projects
 
 - 📫 How to reach me: **marziel2001@gmail.com**
 
